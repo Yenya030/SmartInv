@@ -1,4 +1,5 @@
 # SmartInv Repo Guide
+The setup script runs pip3 install -r requirements.txt so there is no need to run that command. 
 
 This repository implements **SmartInv**, a toolchain for inferring and verifying invariants in Solidity smart contracts.  Below is a high level overview to help new contributors understand the layout and main entry points.
 
